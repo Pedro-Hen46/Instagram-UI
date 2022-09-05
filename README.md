@@ -11,7 +11,7 @@ Algumas tecnologias usadas:
 ## Serviços
 * Github
 
-## Visão Geral do Game:
+## Visão Geral do Projeto:
 ![Show Project Game](https://github.com/Pedro-Hen46/Instagram-UI/blob/main/images/ApresentationVideo.gif)
 
 
