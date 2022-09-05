@@ -12,7 +12,7 @@ Algumas tecnologias usadas:
 * Github
 
 ## Visão Geral do Game:
-![Show Project Game](https://github.com/Pedro-Hen46/ParrotsGame/blob/main/images/ApresentationVideo.gif)
+![Show Project Game](https://github.com/Pedro-Hen46/Instagram-UI/blob/main/images/ApresentationVideo.gif)
 
 
 ## Links
